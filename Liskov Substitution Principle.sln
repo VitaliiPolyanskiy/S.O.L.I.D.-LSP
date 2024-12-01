@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Liskov Substitution Principle", "Liskov Substitution Principle\Liskov Substitution Principle.csproj", "{5F366704-4E33-4DB6-9B33-9102D1BE44F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aggregate_LSP", "Aggregate_LSP\Aggregate_LSP.csproj", "{DC5E012B-7AE3-49B3-ACD6-D52CADAC51F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F366704-4E33-4DB6-9B33-9102D1BE44F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F366704-4E33-4DB6-9B33-9102D1BE44F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F366704-4E33-4DB6-9B33-9102D1BE44F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F366704-4E33-4DB6-9B33-9102D1BE44F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC5E012B-7AE3-49B3-ACD6-D52CADAC51F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC5E012B-7AE3-49B3-ACD6-D52CADAC51F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC5E012B-7AE3-49B3-ACD6-D52CADAC51F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC5E012B-7AE3-49B3-ACD6-D52CADAC51F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80498D50-8435-4A77-82D0-F3C9BA450937}
+	EndGlobalSection
+EndGlobal
